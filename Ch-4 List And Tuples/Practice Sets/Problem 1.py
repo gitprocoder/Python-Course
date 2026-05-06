@@ -1,0 +1,17 @@
+Fruits=[]
+F1=input("Enter Fruit Name:")
+Fruits.append(F1)
+F2=input("Enter Fruit Name:")
+Fruits.append(F2)
+F3=input("Enter Fruit Name:")
+Fruits.append(F3)
+F4=input("Enter Fruit Name:")
+Fruits.append(F4)
+F5=input("Enter Fruit Name:")
+Fruits.append(F5)
+F6=input("Enter Fruit Name:")
+Fruits.append(F6)
+F7=input("Enter Fruit Name:")
+Fruits.append(F7)
+
+print(Fruits)
