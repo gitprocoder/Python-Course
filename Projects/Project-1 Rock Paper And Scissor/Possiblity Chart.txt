@@ -1,0 +1,11 @@
+Me:Comp=won
+
+Rock :	Rock	        Draw
+Rock :	Paper	        Comp wins
+Rock :	Scissors	Rock wins
+Paper :	Rock	        Paper wins
+Paper :	Paper	        Draw
+Paper :	Scissors	Scissors wins
+Scissors : Rock	        Rock wins
+Scissors : Paper	Scissors wins
+Scissors : Scissors	Draw
