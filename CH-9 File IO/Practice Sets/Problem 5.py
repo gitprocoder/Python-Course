@@ -1,11 +1,11 @@
-words=["Donkey","Bad","Ganda"]
-with open("Problem 4.txt","r") as f:
+words=["Donkey","Ganda","Baga"]
+with open("Problem 5.txt","r") as f:
     Content=f.read()
     
     for word in words:
-        Contents=Content.replace(word,"#"*len(word))
+        Content=Content.replace(word,"#"*len(word))
 
 
 
-with open("Problem 4.txt","w") as f:
-    f.write(Contents)
+with open("Problem 5.txt","w") as f:
+    f.write(Content)
